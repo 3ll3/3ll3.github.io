@@ -1,21 +1,13 @@
 {
   "nodes": [
     {"id": "Lisa", "group": 1},
-    {"id": "Tyler", "group": 2}
+    {"id": "MyBaby","group":1},
+    {"id": "Tyler", "group": 2},
+    {"id": "Consent Management", "group": 2}
 
   ],
   "links": [
     {"source": "MyBaby", "target": "Lisa", "value": 8},
-    {"source": "MyHome", "target": "Lisa", "value": 8},
-    {"source": "Propeller", "target": "Lisa", "value": 2},
-    {"source": "Livongo", "target": "Lisa", "value": 2},
-    {"source": "BrightMD", "target": "Tyler", "value": 2},
-    {"source": "Search and Schedule", "target": "Tyler", "value": 2},
-    {"source": "My Care Text", "target": "Tyler", "value": 2},
-    {"source": "Contribution Margin", "target": "Tyler", "value": 2},
-    {"source": "Consent Management", "target": "Tyler", "value": 2},
-    {"source": "Audience Stream Management", "target": "Tyler", "value": 2},
-    {"source": "Tableau Site Administration", "target": "Tyler", "value": 5}
-    
+    {"source": "Consent Management", "target": "Tyler", "value": 2}    
   ]
 }
