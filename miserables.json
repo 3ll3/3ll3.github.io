@@ -1,7 +1,5 @@
 {
   "nodes": [
-    //groups are colors
-    //MyBaby - group 1
     {"id": "Lisa", "group": 1}
 
   ],
